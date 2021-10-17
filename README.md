@@ -1,3 +1,3 @@
 <p align="center">
-<img alt="pie-chart" src="https://github.com/kirill-khalevin-lt/custom_terminal_public/blob/master//Users/kirillhalevin/Library/Containers/com.iscreen.shoter/Data/Library/Caches/Image/terminal.png">
+  <img alt="pie-chart" src="https://github.com/kirill-khalevin-lt/custom_terminal_public/blob/master/terminal.png">
 </p>
